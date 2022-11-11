@@ -1,0 +1,10 @@
+{
+  "reporter": "junit",
+  "chromeWebSecurity": false,
+  "integrationFolder": "cypress/integration/specs",
+  "baseUrl": "https://www-dev-wpqp8nq7ww.deel.training",
+  "defaultCommandTimeout" : 20000,
+  "env" : {
+    "VIEWPORT" : "iphone-6"
+  }
+}
